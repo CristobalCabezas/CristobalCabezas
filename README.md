@@ -1,6 +1,6 @@
 # Cristóbal Cabezas Espinoza
 
-### Computer Engineer | Lawyer | Full Stack Developer
+### Software Engineer | Lawyer | Full Stack Developer
 
 Hello! 👋 I'm Cristóbal, a professional with a unique blend of experience in the worlds of technology and law. My passion is to build robust and efficient technological solutions, always with a comprehensive perspective that covers regulatory compliance and business strategy.
 
@@ -48,7 +48,7 @@ Hello! 👋 I'm Cristóbal, a professional with a unique blend of experience in 
 
 ### 🎓 Education
 
-- **Computer Engineering** - Duoc UC (2021-2024)
+- **Software Engineering** - Duoc UC (2021-2024)
   - _Thesis Project: "CTS Travel Assistant," a reservation chatbot using Langchain, Langgraph, and the OpenAI API._
 - **Law** - Pontificia Universidad Católica de Chile (2009-2014)
   - _Admitted to the Bar by the Supreme Court of Chile (2017)._
